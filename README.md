@@ -4,12 +4,12 @@ Welcome to my CSE110 repository! This repository contains the lab assignments I 
 
 ## Course Contents
 - Week 1: Variables, Data types & Opeartors
-- Week 2: Branching, Incomplete section
-- Week 3: Iterations, Incomplete section
-- Week 4: String, Incomplete section
-- Week 7: List, Incomplete section
-- Week 7: Dictionary & Tuple, Incomplete section
-- Week 8 & 9: Functions, Incomplete section
+- Week 2: Branching
+- Week 3: Iterations
+- Week 4: String
+- Week 7: List
+- Week 7: Dictionary & Tuple
+- Week 8 & 9: Functions
 - Week 10: Sorting
 
 ## License
