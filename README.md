@@ -1,21 +1,17 @@
-# CSE220 - Data Structures - Python - Summer'23
+# CSE110 - Programming Language I - Python - Summer'22
 
-Welcome to my CSE220 repository! This repository contains the lab assignments I completed during my coursework at BRAC University as part of my Bachelor's in Computer Science and Engineering (CSE). Each folder within this repository corresponds to a specific topic, with detailed solutions and code implementations.
+Welcome to my CSE110 repository! This repository contains the lab assignments I completed during my coursework at BRAC University as part of my Bachelor's in Computer Science and Engineering (CSE). Each folder within this repository corresponds to a specific topic, with detailed solutions and code implementations.
 
 ## Course Contents
 
-- Lecture 1 - Linear Array
-- Lecture 2 - Linear Array Manipulation Examples
-- Lecture 4 - Linked List
-- Lecture 5 - Linked List Manipulation
-- Lecture 6 - Linked List Types and DHDLCL
-- Lecture 7 - Stack
-- Lecture 8 - Queue
-- Lecture 9 - Recursion
-- Lecture 12 - Key Index Search and Sort
-- Lecture 13 - Hashtable
-- Lecture 14 - Tree data structure : Basic
-- Lecture 15 - Tree data structure : Representation
+- Week 1: Variables, Data types & Opeartors
+- Week 2: Branching
+- Week 3: Iterations
+- Week 4: String
+- Week 5: List
+- Week 7: Dictionary & Tuple
+- Week 8 & 9: Functions
+- Week 10: Sorting
 
 ## License
 
