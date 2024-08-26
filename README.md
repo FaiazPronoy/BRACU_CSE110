@@ -7,7 +7,7 @@ Welcome to my CSE110 repository! This repository contains the lab assignments I 
 - Week 2: Branching
 - Week 3: Iterations
 - Week 4: String
-- Week 7: List
+- Week 5: List
 - Week 7: Dictionary & Tuple
 - Week 8 & 9: Functions
 - Week 10: Sorting
